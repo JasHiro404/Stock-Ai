@@ -1,0 +1,15 @@
+pandas
+numpy
+yfinance
+scikit-learn
+tensorflow
+xgboost
+fastapi
+uvicorn
+streamlit
+plotly
+python-dotenv
+sqlalchemy
+pymysql
+requests
+n8n
